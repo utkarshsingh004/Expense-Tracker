@@ -12,7 +12,7 @@ An Expense Tracker application built with React and Vite. This app helps users m
 
 ## Demo
 
-[Live Demo](#) *(utkarsh004-expense-tracker.netlify.app)*
+[Live Demo](#) *(https://utkarsh004-expense-tracker.netlify.app/)*
 
 ## Installation
 
@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/utkarshsingh004/expense-tracker.git
+   git clone https://github.com/your-username/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -112,4 +112,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Happy Tracking!**
-
