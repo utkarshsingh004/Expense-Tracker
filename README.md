@@ -12,7 +12,7 @@ An Expense Tracker application built with React and Vite. This app helps users m
 
 ## Demo
 
-[Live Demo](#) *(https://clever-utkarsh-004.netlify.app/)*
+[Live Demo](#) *(utkarsh004-expense-tracker.netlify.app/)*
 
 ## Installation
 
