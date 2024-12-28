@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/utkarshsingh004/expense-tracker.git
+   git clone https://github.com/utkarshsingh004/Expense-Tracker.git
    cd expense-tracker
    ```
 
