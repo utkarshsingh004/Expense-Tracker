@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/utkarshsingh004/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -67,9 +67,7 @@ expense-tracker/
 ├── public/         # Static assets
 ├── src/            # Application source code
 │   ├── components/ # Reusable React components
-│   ├── pages/      # Page-level components
-│   ├── styles/     # CSS or SCSS files
-│   ├── utils/      # Utility functions
+│   ├── App.css     # CSS or SCSS files
 │   └── App.jsx     # Main application component
 ├── .gitignore      # Git ignore file
 ├── index.html      # HTML entry point
@@ -104,10 +102,6 @@ You can deploy the app to any static hosting service (e.g., Netlify, Vercel, Git
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improving the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
